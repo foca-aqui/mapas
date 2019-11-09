@@ -1,0 +1,1 @@
+http://apps.mprj.mp.br:80/geoserver/plataforma/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=plataforma:policia_dps_areas&SRSNAME=EPSG:4326&outputFormat=SHAPE-ZIP&CQL_FILTER=BBOX(geom,-46.86218261718751,-23.80042370237497,-39.72656250000001,-20.3961232724676,%27EPSG:4326%27)
